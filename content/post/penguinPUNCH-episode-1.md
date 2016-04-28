@@ -1,12 +1,12 @@
 +++
 date = "2016-04-27T21:09:57-04:00"
 description = ""
-image = "/static/covers/ep1.svg"
+image = "covers/ep1.svg"
 title = "PenguinPUNCH Podcast Episode #1"
 
 +++
 
-[DOWNLOAD](http://penguinpunch.com/static/podcasts/penguin-punch-ep1.mp3)
+[DOWNLOAD](http://penguinpunch.com/podcasts/penguin-punch-ep1.mp3)
 
 ## Intros
 
