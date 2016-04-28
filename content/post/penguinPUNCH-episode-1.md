@@ -8,9 +8,9 @@ title = "PenguinPUNCH Podcast Episode #1"
 
 [DOWNLOAD](http://penguinpunch.com/podcasts/penguin-punch-ep1.mp3)
 
-##PenguinPUNCH EP1
+## PenguinPUNCH EP1
 
-###Show Notes
+### Show Notes
  - Justin introduces the team to the podcast listeners
  - Mat is a all around coder and programmer
  - Jason is a DevOPS Linux Admin
