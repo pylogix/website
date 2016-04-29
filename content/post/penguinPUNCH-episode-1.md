@@ -2,6 +2,8 @@
 
 date = "2016-04-27T21:09:57-04:00"
 description = "Our inaugural episode."
+tags = [ "podcast" ]
+categories = [ "podcast" ]
 image = "covers/ep1.svg"
 title = "PenguinPUNCH Podcast Episode #1"
 

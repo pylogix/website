@@ -4,3 +4,6 @@ paginate = 3
 copyright = "This site and content are licensed under the GPL, source code can be found [here](https://github.com/chasinglogic/penguinpunch.com)"
 author = "Mathew Robinson; Justin Snyder; Jason Crosby"
 theme = "robust"
+
+[taxonomies]
+category = "categories"
