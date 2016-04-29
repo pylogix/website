@@ -4,7 +4,7 @@
     <div class="detail">
       <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
       <h2 class="title">{{ .Title }}</h2>
-      <div class="summary">{{ .Summary }}</div>
+      <div class="summary">{{ .Description }}</div>
     </div>
   </a>
 </article>

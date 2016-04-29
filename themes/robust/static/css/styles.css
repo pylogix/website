@@ -74,7 +74,7 @@ h5 { font-size: 1rem; line-height: 1rem; }
 header.site {
   padding: 2rem 0;
   text-align: center;
-  background-color: #fff;
+  background-color: #000;
   margin-bottom: 2rem;
 }
 
@@ -86,6 +86,7 @@ header.site .title {
 
 header.site .title a {
   text-decoration: none;
+  color: white;
 }
 
 footer.site {
@@ -123,6 +124,9 @@ aside.site .section header .title {
 }
 
 aside.site .section header .title:before {
+  line-height: 1rem;
+  line-height: 1rem;
+  line-height: 1rem;
   position: absolute;
   left: 10px;
   bottom: -11px;
@@ -140,6 +144,7 @@ div.list header.title {
 article.li {
   margin-bottom: 2rem;
   background-color: #fff;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 article.li .detail {
@@ -181,12 +186,7 @@ article.li .title {
 }
 
 article.li .summary {
-  word-break: break-all;
-  height: 5rem;
-  overflow: hidden;
-  color: #999;
-  font-size: .8rem;
-  line-height: 1rem;
+  margin-top: 10px;
 }
 
 @media (min-width: 767px) {
