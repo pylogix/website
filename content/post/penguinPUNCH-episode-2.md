@@ -21,10 +21,6 @@ title = "PenguinPUNCH Podcast Episode #2"
 [Humbl bundle has books on linux and hacking](https://www.humblebundle.com/books/no-starch-hacking-books)
 [ChromiumOS on Pi 3](http://hackerboards.com/chromium-os-comes-to-raspberry-pi-3/)
 
-### Did you see that?
-[Stackanetes](http://techcrunch.com/2016/04/26/coreoss-stackanetes-lets-you-use-kubernetes-to-run-openstack-in-containers/)
-	- #why
-
 ### Code Corner
 The 365 day challenge Day 14: They still dont' know I'm a fraud
 
@@ -34,10 +30,14 @@ The 365 day challenge Day 14: They still dont' know I'm a fraud
 - Justin is working on learning Python still
 - Jason started cutting the audio, trying to decide on GUI language to use with Python.
 
-
-
 ### Justin's Conversion
 Gave up on finding a laptop, probably going the VM route.
 
 ### Discussion
 ZFS on Linux: Why the GPL Sucks according to Mat
+
+### Did you see that?
+[Stackanetes](http://techcrunch.com/2016/04/26/coreoss-stackanetes-lets-you-use-kubernetes-to-run-openstack-in-containers/)
+	- #why
+
+
