@@ -18,7 +18,9 @@ title = "PenguinPUNCH Podcast Episode #2"
 
 ### News Segments
 [2/3rds of software companies are now open source](http://www.networkworld.com/article/3062031/open-source-tools/almost-two-thirds-of-software-companies-contributing-to-open-source.html)
+
 [Humbl bundle has books on linux and hacking](https://www.humblebundle.com/books/no-starch-hacking-books)
+
 [ChromiumOS on Pi 3](http://hackerboards.com/chromium-os-comes-to-raspberry-pi-3/)
 
 ### Code Corner
@@ -40,4 +42,4 @@ ZFS on Linux: Why the GPL Sucks according to Mat
 [Stackanetes](http://techcrunch.com/2016/04/26/coreoss-stackanetes-lets-you-use-kubernetes-to-run-openstack-in-containers/)
 	- #why
 
-
+### SELF Update
