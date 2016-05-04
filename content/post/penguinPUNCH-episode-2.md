@@ -42,4 +42,8 @@ ZFS on Linux: Why the GPL Sucks according to Mat
 [Stackanetes](http://techcrunch.com/2016/04/26/coreoss-stackanetes-lets-you-use-kubernetes-to-run-openstack-in-containers/)
 	- #why
 
-### SELF Update
+### Contact
+
+- Mat [Twitter](http://twitter.com/chasinglogic/) Email: mat@penguinpunch.com
+- Jason Email: jason@penguinpunch.com
+- Justin Email: justin@penguinpunch.com
