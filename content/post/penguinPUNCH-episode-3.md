@@ -33,7 +33,7 @@ Justin's Conversion
 
 Discussion
 
-Is closed source software inherently evil (should we make those businesses fail)
+    Is closed source software inherently evil (should we make those businesses fail)
 
 Did you see that?
 
