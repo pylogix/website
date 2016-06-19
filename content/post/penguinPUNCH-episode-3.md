@@ -2,7 +2,12 @@
 
 +++
 
-date = "2016-05-12T19:45:57-04:00" description = "" tags = [ "podcast" ] categories = [ "podcast" ] image = "covers/logo.png" title = "PenguinPUNCH Podcast Episode #3"
+date = "2016-05-12T19:45:57-04:00" 
+description = "" 
+tags = [ "podcast" ] 
+categories = [ "podcast" ] 
+image = "covers/logo.png" 
+title = "PenguinPUNCH Podcast Episode #3"
 
 +++
 
