@@ -1,6 +1,6 @@
 +++
 
-date = "2016-05-24:09:57-04:00"
+date = "2016-05-24T01:19:19+00:00"
 description = ""
 tags = [ "podcast" ]
 categories = [ "podcast" ]
