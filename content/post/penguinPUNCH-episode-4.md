@@ -4,7 +4,7 @@ date = "2016-05-24:09:57-04:00"
 description = ""
 tags = [ "podcast" ]
 categories = [ "podcast" ]
-image = "covers/ep4.svg"
+image = "covers/logo.png"
 title = "PenguinPUNCH Podcast Episode #4"
 
 +++
