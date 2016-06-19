@@ -4,7 +4,7 @@ date = "2016-05-02T21:09:57-04:00"
 description = "Mat is an FSF member who hates the FSF."
 tags = [ "podcast" ]
 categories = [ "podcast" ]
-image = "covers/ep2.svg"
+image = "covers/logo.png"
 title = "PenguinPUNCH Podcast Episode #2"
 
 +++
