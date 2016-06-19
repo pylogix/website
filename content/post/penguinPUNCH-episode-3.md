@@ -6,8 +6,10 @@ date = "2016-05-12T19:45:57-04:00" description = "" tags = [ "podcast" ] categor
 
 +++
 
-DOWNLOAD
+[DOWNLOAD](http://penguinpunch.com/podcasts/penguin-punch-ep3.mp3)
+
 PenguinPUNCH EP3
+
 Show Notes
 
 News Segments
