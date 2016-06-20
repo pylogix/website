@@ -9,6 +9,8 @@ title = "PenguinPUNCH Podcast Episode #5"
 
 +++
 
+[DOWNLOAD](http://penguinpunch.com/podcasts/penguin-punch-ep5.mp3)
+
 ##  PenguinPunch Podcast EP5 
 
 ### Show Notes
