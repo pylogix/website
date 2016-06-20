@@ -28,7 +28,7 @@
           <meta itemprop="name" content="{{ .Site.Params.Author }}">
         </div>
 
-        <div class="image" style="background-image: url({{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}default.jpg{{ end }});"></div>
+        <div class="image"><img src="{{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}default.jpg{{ end }}" style="height: 100%" /></div>
 
         <header class="article-header">
           <time itemprop="datePublished" pubdate="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
