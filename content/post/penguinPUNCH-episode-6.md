@@ -28,9 +28,9 @@ Snaps / Universal Package formats are they good?
 [Dell XPS 13 Skylake Linux Review](http://www.cio.com/article/3083925/hardware/dell-xps-13-skylake-2016-review-a-lot-for-a-linux-user-to-like.html)
 
 ###### Contacts
-Justin Snyder (Pylogix) Justin@PenguinPunch.com
-Mat Robinson (Chasinglogic) Mat@PenguinPunch.com
-Jason Crosby (Secureshell) Jason@PenguinPunch.com
-Questions Questions@PenguinPunch.com
-Twitter www.twitter.com/@penguinpunch16
+Justin Snyder (Pylogix) Justin@PenguinPunch.com  
+Mat Robinson (Chasinglogic) Mat@PenguinPunch.com  
+Jason Crosby (Secureshell) Jason@PenguinPunch.com  
+Questions Questions@PenguinPunch.com  
+Twitter www.twitter.com/@penguinpunch16  
 
