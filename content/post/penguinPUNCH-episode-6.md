@@ -10,9 +10,10 @@ Jason Crosby : Secureshell
 #### OpenSource News
 [Intel x86s hide another CPU that can take over your machine (you can't audit it)](http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html)  
 [Hyperloop pods competing this summer](http://www.theverge.com/2016/6/18/11965354/hyperloop-pod-competition-elon-musk-spacex-team-design)
+
 #### Announce New Logo
 See logo on twitter page 
-@penguinpunch16
+[@penguinpunch16](http://twitter.com/pylogix)
 
 #### Code Corner with Chasing Logic
 
