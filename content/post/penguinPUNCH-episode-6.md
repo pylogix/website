@@ -13,7 +13,7 @@ Jason Crosby : Secureshell
 
 #### Announce New Logo
 See logo on twitter page 
-[@penguinpunch16](http://twitter.com/pylogix)
+[@penguinpunch16](http://twitter.com/penguinpunch16)
 
 #### Code Corner with Chasing Logic
 
