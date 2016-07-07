@@ -72,9 +72,9 @@ h4 { font-size: 1rem; line-height: 1rem; }
 h5 { font-size: 1rem; line-height: 1rem; }
 
 header.site {
-  padding: 2rem 0;
+  padding: 1rem 0;
   text-align: center;
-  background-color: #000;
+  background-color: #00112B;
   margin-bottom: 2rem;
 }
 
@@ -158,10 +158,15 @@ article.li a {
 }
 
 article.li .image {
-  height: 12rem;
+	height: 12rem;
+	overflow:hidden;
   background-color: #eee;
   background-position: center;
   background-size: cover;
+}
+
+article.li .image img {
+  height: 500px;
 }
 
 article.li time {
@@ -264,10 +269,15 @@ article.single .article-header {
 }
 
 article.single .image {
-  height: 500px;
+  height: 500px !important;
   background-color: #eee;
   background-position: center;
   background-size: cover;
+  overflow:hidden;
+}
+
+article.single .image img {
+	height: 500px;
 }
 
 @media (max-width: 768px) {
@@ -479,3 +489,7 @@ nav.paging .right {
   padding: 0 .5rem;
 }
 
+.header-logo {
+	height: 4rem;
+	width: 25rem;
+}
