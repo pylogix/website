@@ -1,11 +1,15 @@
 <div class="index">
   {{ partial "default_head.html" . }}
-  
+
   <div class="jumbotron">
     {{ range first 1 .Paginator.Pages }}
-      <img src="{{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}{{ $.Site.BaseURL }}covers/default.png{{ end }};" />
-      <h1>{{ .Title }}</h1>
-      <p>{{ .Description }}</p>
+      <iframe width="100%" height="100px" scrolling="no" frameborder="no" 
+                                                   src="{{ .Params.soundcloud }}"></iframe>
+    <!-- <img class="image" src="{{ $.Site.BaseURL }}images/covers/{{ with .Params.image }}{{ . }}{{ else }}default.png{{ end }}" /> -->
+    <!-- <div class="big-episode"> -->
+    <!--   <h1>{{ .Title }}</h1> -->
+    <!--   <p>{{ .Description }}</p> -->
+    <!-- </div> -->
     {{ end }}
   </div>
 

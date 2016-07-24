@@ -1,3 +1,14 @@
++++
+
+date = "2016-07-01T01:19:20+00:00"
+description = ""
+tags = [ "podcast" ]
+categories = [ "podcast" ]
+title = "PenguinPUNCH Podcast Episode #6"
+soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/275171643&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
+
++++
+
 ##  PenguinPunch Podcast EP6
 
 ### Show Notes
