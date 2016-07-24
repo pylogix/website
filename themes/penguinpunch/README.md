@@ -1,12 +1,7 @@
-![screenshot](https://raw.githubusercontent.com/dim0627/hugo_theme_robust/master/images/screenshot.png)
-
 # Features
 
-* Google Analytics
 * Disqus
-* Share Buttons(fb, twitter, google+, pocket)
-* Eye-catching Image
-* MicroData
+* Share Buttons(fb, twitter, google+, pocket) MicroData
 * Readable text(Customized Vertical Rhythm).
 
 # Installation

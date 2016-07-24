@@ -1,0 +1,16 @@
+<article class="li">
+  <a href="{{ .Permalink }}" class="clearfix">
+    <div class="row">
+      <div class="col-sm-2">
+        <img class="image" src="{{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}{{ $.Site.BaseURL }}covers/default.png{{ end }};" />
+      </div>
+      <div class="col-sm-10 detail">
+        <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+        <h2 class="title">{{ .Title }}</h2>
+        <div class="summary">{{ .Description }}</div>
+      </div>
+    </div>
+    <div class="row">
+    </div>
+  </a>
+</article>

@@ -1,0 +1,12 @@
+name = "Podthrower"
+license = "MIT"
+licenselink = "https://github.com/chasinglogic/hugo_theme_podthrower/blob/master/LICENSE.md"
+description = "Podthrower is a blog theme for podcasters using hugo."
+tags = ["blog", "podcasts", "podcast"]
+features = ["blog"]
+min_version = 0.15
+
+[author]
+    name = "Mathew Robinson"
+    homepage = "http://www.chasinglogic.com/"
+

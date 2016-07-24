@@ -1,0 +1,34 @@
+<div class="index">
+  {{ partial "default_head.html" . }}
+  
+  <div class="jumbotron">
+    {{ range first 1 .Paginator.Pages }}
+      <img src="{{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}{{ $.Site.BaseURL }}covers/default.png{{ end }};" />
+      <h1>{{ .Title }}</h1>
+      <p>{{ .Description }}</p>
+    {{ end }}
+  </div>
+
+  <div class="row">
+    <div class="col-sm-8">
+
+      <div class="articles">
+        {{ range $key, $value := .Paginator.Pages }}
+          {{ if ne $key 0 }}
+            <div class="row">
+              {{ .Render "li" }}
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+
+      {{ partial "pagination.html" . }}
+    </div>
+
+    <div class="col-sm-4">
+      {{ partial "sidebar.html" . }}
+    </div>
+
+  </div>
+  {{ partial "default_foot.html" . }}
+</div>
