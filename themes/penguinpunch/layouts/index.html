@@ -1,7 +1,10 @@
 <div class="index">
   {{ partial "default_head.html" . }}
-
   <div class="row">
+    <div class="banner">
+        <img src="/images/mic_banner.png" />
+    </div>
+
     <div class="col-sm-8">
 
       <div class="articles">
@@ -16,9 +19,11 @@
     </div>
 
     <div class="col-sm-4">
-      {{ partial "sidebar.html" . }}
+        <div class="sidebar-item">
+            <h2 class="text-center sidebar-header">Who We Are</h2>
+            <img class="sidebar-logo" src="/images/logo/sidebar.png" />
+        </div>
     </div>
-
   </div>
   {{ partial "default_foot.html" . }}
 </div>
