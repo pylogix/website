@@ -1,13 +1,46 @@
-	</div>
+</div>
 
-    <footer class="site">
-      <p>{{ with .Site.Copyright | markdownify }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "Author" }}{{ $.Site.Params.Author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</p>
-      <p>Powered by <a href="http://gohugo.io" target="_blank" rel="nofollow">Hugo</a>, Theme <a href="https://github.com/dim0627/hugo_theme_robust" target="_blank" rel="nofollow">robust</a> designed by <a href="http://yet.unresolved.xyz" target="_blank" rel="nofollow">Daisuke Tsuji</a></p>
-    </footer>
+<nav class="navbar navbar-default navbar-fixed-bottom">
+    <ul class="nav navbar">
+        <li>
+            <p class="navbar-text big-text">
+                <span class=”copy-left”>©</span>
+                PenguinPunch, The code for this website can be found on <a href="https://github.com/chasinglogic/penguinpunch.com">Github</a> and is licensed under the GPLv3
+            </p>
+        </li>
+<li>
+            <p class="pull-left navbar-text small-text">
+                <span class=”copy-left”>©</span>
+                PenguinPunch
+            </p>
+        </li>
 
-    <script src="/js/jquery-2.1.3.min.js"></script>
-    <script src="/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <script src="/js/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
+        <li>
+            <a class="pull-right twitter" href="https://twitter.com/penguinpunch16">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        <li>
+            <a class="pull-right" href="https://facebook.com/penguinpunch16">
+                <i class="fa fa-facebook"></i>
+            </a>
+
+        </li>
+        <li>
+            <a class="pull-right" href="https://soundcloud.com/penguinpunch16">
+                <i class="fa fa-soundcloud"></i>
+            </a>
+        </li>
+    </ul>
+</nav>
+<footer class="site">
+    <p>{{ with .Site.Copyright | markdownify }}{{ . }}{{ else }}&copy; {{ $.Site.LastChange.Year }} {{ if isset $.Site.Params "Author" }}{{ $.Site.Params.Author }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</p>
+    <p>Powered by <a href="http://gohugo.io" target="_blank" rel="nofollow">Hugo</a>, Theme <a href="https://github.com/dim0627/hugo_theme_robust" target="_blank" rel="nofollow">robust</a> designed by <a href="http://yet.unresolved.xyz" target="_blank" rel="nofollow">Daisuke Tsuji</a></p>
+</footer>
+
+<script src="/js/jquery-2.1.3.min.js"></script>
+<script src="/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
   </body>
 </html>

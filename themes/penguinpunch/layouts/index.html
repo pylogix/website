@@ -1,24 +1,18 @@
 <div class="index">
-  {{ partial "default_head.html" . }}
+    {{ partial "default_head.html" . }}
 
-  <div class="row">
-    <div class="col-sm-8">
+    <div class="row herow">
+        <img class="hero" src="/images/logo/penguinpunchmic.png" />
+    </div>
 
-      <div class="articles">
+    <div class="articles">
         {{ range $key, $value := .Paginator.Pages }}
-          <div class="row">
+        <div class="row">
             {{ .Render "li" }}
-          </div>
+        </div>
         {{ end }}
-      </div>
-
-      {{ partial "pagination.html" . }}
     </div>
 
-    <div class="col-sm-4">
-      {{ partial "sidebar.html" . }}
-    </div>
-
-  </div>
-  {{ partial "default_foot.html" . }}
+    {{ partial "pagination.html" . }}
+    {{ partial "default_foot.html" . }}
 </div>

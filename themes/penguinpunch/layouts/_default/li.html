@@ -1,9 +1,6 @@
 <article class="li">
   <div class="row">
-    <a class="pull-left" href="{{ .Permalink }}"><h2 class="title">{{ .Title }} <small>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{$.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</small></h2></a>
-    <a class="pull-right twitter" href="https://twitter.com/penguinpunch16"><i class="fa fa-twitter"></i></a>
-    <a class="pull-right" href="https://facebook.com/penguinpunch16"><i class="fa fa-facebook"></i></a>
-    <a class="pull-right" href="https://soundcloud.com/penguinpunch16"><i class="fa fa-soundcloud"></i></a>
+    <a class="pull-left li-title" href="{{ .Permalink }}"><h2 class="title">{{ .Title }} <mdall>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{$.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</mdall></h2></a>
   </div>
   <iframe width="100%" height="166" scrolling="no" frameborder="no" 
                                                    src="{{ $.Params.soundcloud }}">
