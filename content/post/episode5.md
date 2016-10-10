@@ -1,6 +1,6 @@
 +++
 
-date = "2016-10-05T12:48:18-04:00" title = "Is FOSS facing Extinction" description = "A discussion ensues around the future of FOSS(Free and Open Source Software) and the PC in general. Are we facing a future where the idea of the desktop computer or laptop is only used buy IT professionals and no longer in our homes? The guys share their opinions.." soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/286921589&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true""
+date = "2016-10-05T12:48:18-04:00" title = "Is FOSS facing Extinction" description = "A discussion ensues around the future of FOSS(Free and Open Source Software) and the PC in general. Are we facing a future where the idea of the desktop computer or laptop is only used buy IT professionals and no longer in our homes? The guys share their opinions.." soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/286921589&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
 
 +++
 
