@@ -1,9 +1,8 @@
 html {
+  position: relative;
+  min-height: 100%;
   font-size: 1em;
-}
-
-.small-text {
-  display: none;
+  overflow-x: hidden;
 }
 
 /* Fix embedded images in show notes */
@@ -17,7 +16,6 @@ article p img {
   }
 
   .small-text {
-    display: block;      
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
@@ -30,10 +28,10 @@ body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: inherit;
+  margin-bottom: 50px;
 }
 
-html,
-body {
+html {
   margin: 0;
 }
 
@@ -392,15 +390,67 @@ article.single .article-body {
 }
 
 .social {
-  float: right;
-  margin-bottom: 5px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
 }
 
-.social-last {
-  margin-right: 10px;
+.social:hover {
+  background-color: #FFCC00;
 }
 
-.small-text, .big-text {
-  float: left;
+.li h2 {
+  display: inline-block;
+  vertical-align: middle;
 }
 
+.title {
+  text-align: left;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #00112B;
+  padding-top: 5px;
+}
+
+.footer-item {
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+}
+
+.social-buttons {
+  text-align: right;
+}
+
+.big-text, .small-text {
+  margin: 0;
+  margin-left: 6px;
+}
+
+.fa-envelope {
+    background-color: black;
+}
+
+.fa-slack {
+    background-color: purple;
+}
+
+.date {
+  text-align: right;
+  padding-right: 25px;
+}
+
+@media (max-width: 1024px) {
+  .date {
+    text-align: left;
+  }
+}
