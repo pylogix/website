@@ -6,6 +6,11 @@ html {
     display: none;
 }
 
+/* Fix embedded images in show notes */
+article p img {
+  width: 100%;
+}
+
 @media (max-width: 768px) {
     html {
         font-size: 14px;
