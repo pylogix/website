@@ -36,7 +36,7 @@ h1, h5, .row {
     <a class="col-md-3" href="https://twitter.com/penguinpunch16">
       <i class="fa fa-twitter fa-5x"></i>
     </a>
-    <a class="col-md-3" href="https://facebook.com/penguinpunch16">
+    <a class="col-md-3" href="https://facebook.com/penguinpunch">
       <i class="fa fa-facebook fa-5x"></i>
     </a>
     <a class="col-md-3" href="mailto:questions@penguinpunch.com">
