@@ -2,55 +2,6 @@
 <!-- Hugo won't render page correctly without this # symbol, leave it alone or
 regret your life choices! -->
 
-<style>
-.profile-pic {
-    height: 10em;
-    min-width: 10em;
-}
-
-.row div p {
-    vertical-align: middle;
-}
-
-.row img {
-    display: inline-block;
-}
-
-.row div {
-    display: inline-block;
-    max-width: 65%;
-    vertical-align: middle;
-}
-
-.pic-left {
-    margin-left: 7%;
-}
-
-.pic-right {
-    margin-right: 9.8%;
-    margin-left: 4.6%;
-}
-
-.shadow {
-    box-shadow: 0px 0px 5px;
-}
-
-.row {
-    /* box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2); */
-    margin-top: 20px;
-    margin-bottom: 10px;
-    min-height: 10em;
-}
-
-.image, header, aside {
-    display: none;
-}
-
-#blurb {
-    padding: 5px;
-}
-</style>
-
 <div id="blurb" class="row">
     <h1 class="text-center">About The Podcast</h1>
     <p>
@@ -89,3 +40,6 @@ regret your life choices! -->
      group. He brings practical knowledge and has the most experience with Linux. </p>
     </div>
 </div>
+
+
+<link rel="stylesheet" href="/css/about.css" >
