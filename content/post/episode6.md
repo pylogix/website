@@ -1,4 +1,4 @@
-date = "2016-10-20T12:48:18-04:00" title = “PenguinPunch goes to Ohio Linux Fest“ description = “Mat(Chasinglogic) gives a talk at Ohio Linux Fest on how to use Git. The guys talk about what was good and what could be better and if they have plans to take part in Ohio Linux Fest 2017.” soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280508271&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
+date = "2016-10-20T12:48:18-04:00" title = “PenguinPunch goes to Ohio Linux Fest“ description = “Mat(Chasinglogic) gives a talk at Ohio Linux Fest on how to use Git. The guys talk about what was good and what could be better and if they have plans to take part in Ohio Linux Fest 2017.” soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291848702&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
 # Penguin Punch Episode 6
 
