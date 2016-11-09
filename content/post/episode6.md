@@ -1,6 +1,18 @@
-date = "2016-10-20T12:48:18-04:00" title = “PenguinPunch goes to Ohio Linux Fest“ description = “Mat(Chasinglogic) gives a talk at Ohio Linux Fest on how to use Git. The guys talk about what was good and what could be better and if they have plans to take part in Ohio Linux Fest 2017.” soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291848702&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
 
-# Penguin Punch Episode 6
++++
+
+date = 2016-11-09T04:00:07
+
+title = "PenguinPunch Goes to Ohio Linux Fest"
+
+description = "Mat(Chasinglogic) gives a talk at Ohio Linux Fest on how to use Git. The guys talk about what was good and what could be better and if they have plans to take part in Ohio Linux Fest 2017."
+
+soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291848702&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+
++++
+
+
+# Penguin Punch Episode 6 
 
 ## Open Discussion
 
@@ -30,7 +42,7 @@ chasinglogic
 [XFS has super CoW powers!](https://www.reddit.com/r/linux/comments/577e11/xfs_has_gained_super_cow_powers_almost/)
 
 > This is a reddit post by /u/anatolya 
-> XFS is adding a some Copy on Write features which will allow it to add some deduplication functionality and various other data integrity checks. It won't be able to do online dedup like ZFS (due to RAM requirements and XFS not wanting to incur those penalties) but offline dedup will be possible now.
+> XFS is adding a some Copy on Write features which will allow it to add some deuplication functionality and various other data integrity checks. It won't be able to do online dedup like ZFS (due to RAM requirements and XFS not wanting to incur those penalties) but offline dedup will be possible now.
 
 Secureshell
 [Linus Torvalds says ARM just doesn't look like beating Intel](http://www.theregister.co.uk/2016/10/10/linus_torvalds_says_arm_just_doesnt_look_like_beating_intel/)
@@ -39,7 +51,7 @@ Secureshell
 >
 > Torvalds voiced his opinions in a fireside chat with David Rusling, chief technology officer of ARM tools vendor Linaro, at the end of September.
 >
-> Rusling asked Torvalds if he has a favorite architecture and Torvalds quickly responded that “x86 is still the one I favour most and that is because of the PC. The infrastructure is there there and it is open in a way no other architecture is.”
+> Rusling asked Torvalds if he has a favourite architecture and Torvalds quickly responded that “x86 is still the one I favour most and that is because of the PC. The infrastructure is there there and it is open in a way no other architecture is.”
 
 chasinglogic
 [Ubuntu releases kernel live patching to the Ubuntu community](https://lists.ubuntu.com/archives/ubuntu-announce/2016-October/000214.html)
