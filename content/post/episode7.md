@@ -1,27 +1,13 @@
 
 +++
 
-date = 2016-11-09T03:57:13
+date = "2016-11-09T04:06:05"
 
 title = "Google Pixel Sucks to Macbook Failures... Linux Wins"
 
 description = "This week the guys cover topics all over the place. What do you think of the google pixel? Macbook owners are flocking to Opensource Hardware and Hack your car. Just some of the great topics covered in this episode."
 
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/292155767&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
-
-+++
-
-
-
-+++
-
-date = 2016-11-09T03:56:38
-
-title = Google Pixel Sucks to Macbook Failures... Linux Wins
-
-description = This week the guys cover topics all over the place. What do you think of the google pixel? Macbook owners are flocking to Opensource Hardware and Hack your car. Just some of the great topics covered in this episode.
-
-soundcloud = https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/292155767&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true
 
 +++
 
@@ -94,4 +80,5 @@ chasinglogic
 ## The Deep Dive
 [Do Opensource Projects need to work together to survive](https://www.linux.com/news/open-source-projects-must-work-together-survive)
 > *"The problem open source faces is that the projects are often fragmented and competing, and integration points with other projects aren’t often considered early in their lifecycle."*
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/VE2MQ3w8d1M" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315"src="https://www.youtube.com/embed/VE2MQ3w8d1M" frameborder="0"allowfullscreen></iframe>
