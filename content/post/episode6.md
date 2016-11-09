@@ -1,6 +1,20 @@
 
 +++
 
+date = "2016-11-09T04:03:13"
+
+title = "PenguinPunch Goes to Ohio Linux Fest"
+
+description = "Mat(Chasinglogic) gives a talk at Ohio Linux Fest on how to use Git. The guys talk about what was good and what could be better and if they have plans to take part in Ohio Linux Fest 2017."
+
+soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291848702&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+
++++
+
+
+
++++
+
 date = 2016-11-09T04:00:07
 
 title = "PenguinPunch Goes to Ohio Linux Fest"
