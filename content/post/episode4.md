@@ -1,6 +1,6 @@
 +++
 
-date = "2016-09-20T12:48:18-04:00" 
+["propercast"] date = "2016-09-20T12:48:18-04:00" 
 title = "Linux as a Career"
 description = "Justin and Jason go for duet in this week's episode and cover a lot of cool topics including how and why you should consider making Linux your career."
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/284513083&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
