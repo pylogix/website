@@ -1,8 +1,0 @@
-name = "PenguinPUNCH"
-license = "GPLv3"
-description = "PenguinPUNCH is a theme for the PenguinPUNCH podcast."
-min_version = 0.15
-
-[author]
-name = "Mathew Robinson"
-homepage = "http://www.chasinglogic.com/"
