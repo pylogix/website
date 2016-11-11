@@ -1,0 +1,3 @@
+[submodule "themes/penguinpunch"]
+	path = themes/penguinpunch
+	url = git@github.com:/PenguinPunch/penguinpunch
