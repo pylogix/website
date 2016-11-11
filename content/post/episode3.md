@@ -1,6 +1,6 @@
 +++
 
-date = "2016-09-11T12:48:18-04:00" 
+["propercast"] date = "2016-09-11T12:48:18-04:00" 
 title = "Why should you practice good data security."
 description = "This week the guys get into a deep discussion around data security. Why you should be concerned with it, and why you should practice it." 
 soundcloud = "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282493998&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"
