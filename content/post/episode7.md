@@ -1,7 +1,7 @@
 
 +++
 
-date = "2016-11-09T04:06:05"
+["propercast"] date = "2016-11-09T04:06:05"
 
 title = "Google Pixel Sucks to Macbook Failures... Linux Wins"
 
